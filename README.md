@@ -166,6 +166,12 @@ To run jshint on the plugin code, call:
 $ grunt jshint
 ```
 
+To run jscs on the plugin code, call:
+
+```shell
+$ grunt jscs
+```
+
 To build the output js and css files, with the related minified ones, run:
 
 ```shell
